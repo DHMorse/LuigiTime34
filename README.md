@@ -28,6 +28,6 @@
 ## ⚡ Fun Facts
 - 🌟 I make Minecraft Maps and Datapacks.
 - 📚 Always learning something new!
-- 💨Check out my WIP map ![Dash 34](https://github.com/LuigiTime34/Dash-34-Datapack)!
+- 💨Check out my WIP map [Dash 34](https://github.com/LuigiTime34/Dash-34-Datapack)!
 
 ---
