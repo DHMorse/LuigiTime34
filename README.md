@@ -17,9 +17,13 @@
 ---
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiTime34&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LuigiTime34&show_icons=true&theme=dark"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTime34&layout=compact&theme=dark"></td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTime34&layout=compact&theme=dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuigiTime34&theme=github-dark)
 
